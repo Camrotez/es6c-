@@ -1,0 +1,14 @@
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\es6c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\es6c#.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\es6c#.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\es6c#.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\bin\Debug\net6.0\es6c#.exe
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\bin\Debug\net6.0\es6c#.deps.json
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\bin\Debug\net6.0\es6c#.runtimeconfig.json
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\bin\Debug\net6.0\es6c#.dll
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\bin\Debug\net6.0\es6c#.pdb
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\es6c#.dll
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\refint\es6c#.dll
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\es6c#.pdb
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\es6c#.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\c#\es6c#\es6c#\obj\Debug\net6.0\ref\es6c#.dll
